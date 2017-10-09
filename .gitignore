@@ -12,6 +12,7 @@
 /env/
 MANIFEST
 coverage.*
+.DS_Store
 
 !.gitignore
 !.travis.yml
